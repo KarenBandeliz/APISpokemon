@@ -1,0 +1,11 @@
+.jumbotron{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg5XLs3bI-E-OL0Me0uksflTn0F_-n4KOe_aZcZFUHTkg5lJBhJVmFTUh-hynCYLNSnf8&usqp=CAU); 
+}
+body{
+    background-color: rgb(252, 252, 149);
+}
+.card{
+    color: rgb(219, 103, 103);
+    text-align: center;
+    background-color: bisque;
+}
